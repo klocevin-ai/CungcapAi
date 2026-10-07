@@ -1,0 +1,6 @@
+{
+  "name": "Vesper.ai",
+  "description": "ChatGPT • Gemini • Claude • Perplexity • Midjourney • Grok và nhiều công cụ AI khác — Nâng cấp tài khoản AI bản quyền giá rẻ, bảo hành 1 đổi 1",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
